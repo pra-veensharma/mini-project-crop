@@ -1,6 +1,2 @@
-#mini-project
-
-<br>
-this is first Git reposotory.
-<br>
-second
+#mini-project<br>
+crop recommendation for  rural farmer in jharkjand 
